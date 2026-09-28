@@ -1,4 +1,6 @@
-# Emotion Detector
+# Final Project
+
+**Project name:** Final Project – Emotion Detector
 
 An AI-based web application that analyzes English text with the IBM Watson NLP
 emotion model. The application reports scores for anger, disgust, fear, joy,
