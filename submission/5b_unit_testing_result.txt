@@ -1,0 +1,8 @@
+PS C:\Users\prof.dr.f.sami\Documents\Codex\2026-09-28\q-x20> $env:PYTHONPATH='C:\Users\prof.dr.f.sami\Documents\Codex\2026-09-28\q-x20\work\IBM-AI-sentiment-analysis'; python work\run_unit_tests_offline.py
+test_emotion_detector (test_emotion_detection.TestEmotionDetector.test_emotion_detector)
+Verify the expected dominant emotion for five test sentences. ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK

@@ -1,0 +1,3 @@
+PS C:\Users\prof.dr.f.sami\Documents\Codex\2026-09-28\q-x20\work\IBM-AI-sentiment-analysis> python -c "from EmotionDetection import emotion_detector; print('EmotionDetection package imported successfully'); print('Exported function:', emotion_detector.__name__)"
+EmotionDetection package imported successfully
+Exported function: emotion_detector

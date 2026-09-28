@@ -1,0 +1,4 @@
+PS C:\Users\prof.dr.f.sami\Documents\Codex\2026-09-28\q-x20\work\IBM-AI-sentiment-analysis> ..\.venv\Scripts\python.exe -m pylint --persistent=n server.py
+
+------------------------------------
+Your code has been rated at 10.00/10
